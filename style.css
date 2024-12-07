@@ -1,0 +1,30 @@
+*{
+   background-color: black;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+p,
+h3,
+.title,
+.list{
+    color: #E8A732;
+
+}
+
+.title{
+    font-size: 56px;
+}
+
+.list{
+    font-size: 28px;
+}
+ul{
+    list-style: none;
+}
+h3{
+    font-size: 28px;
+}
+.summary{
+    font-size: 28px;
+}
